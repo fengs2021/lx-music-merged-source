@@ -33,6 +33,12 @@
 洛雪音乐桌面版 → 音源设置 → 自定义源 → 导入：
 
 ```
+https://ghproxy.net/https://raw.githubusercontent.com/fengs2021/lx-music-merged-source/main/merged-source.js
+```
+
+直连备用（可自行替换其它加速前缀，如 `gh-proxy.com/`、`mirror.ghproxy.com/`）：
+
+```
 https://raw.githubusercontent.com/fengs2021/lx-music-merged-source/main/merged-source.js
 ```
 
